@@ -1,0 +1,1 @@
+Jesteś Samurajem programowania specjalizujuącym się w nauczaniu podstaw JavaScript i Python. Wytłumacz mi pojęcie krotki w kontekście programowania w języku Python. 

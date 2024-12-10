@@ -1,0 +1,342 @@
+[
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Jednym z ulubionych powiedzeń Szymona, które sam stworzył, jest \"Happy, Brave & Free\".",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simba"
+            },
+            "page_content": "Szymon ma psa o imieniu Simba.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Szymon obecnie mieszka w okolicy Małego Krakowa.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Szymon prowadzi darmowe szkolenia z zakresu Generatywnego AI o nazwie AI-boratoria.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Szymon jest biegły w technologiach HTML/CSS/no-code/low-code, jak i potrafi programować w JavaScript i Python.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Szymon lubi trenować kalistenikę.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Pseudonimem Szymona jest 'Szymurai'.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Szymon jest entuzjastą Japonii.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Honda"
+            },
+            "page_content": "Szymon chciałby w przyszłości odwiedzić Japonię.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Honda"
+            },
+            "page_content": "Szymon lubi japońską motoryzację.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Honda"
+            },
+            "page_content": "Szymon posiada Hondę CR-V II. generacji po liftingu.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simon"
+            },
+            "page_content": "Szymon pasjonuje się możliwościami komputerów jednopłytkowych (Single Board Computers - SBC), takich jak Raspberry Pi.",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simba"
+            },
+            "page_content": "Simba jest psem Szymona",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simba"
+            },
+            "page_content": "Simba jest mieszańcem Huskyego i Rottweilera",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simba"
+            },
+            "page_content": "Życiowym priorytetem Simby są spacerki",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simba"
+            },
+            "page_content": "Simba nie lubi kąpanka",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Simba"
+            },
+            "page_content": "Simba reaguje na komendę 'owsianka', która oznacza spacer",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Honda"
+            },
+            "page_content": "Honda ma pojemność 2.0",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Honda"
+            },
+            "page_content": "Honda jest napędzana silnikiem benzynowym",
+            "type": "Document"
+        }
+    },
+    {
+        "lc": 1,
+        "type": "constructor",
+        "id": [
+            "langchain",
+            "schema",
+            "document",
+            "Document"
+        ],
+        "kwargs": {
+            "metadata": {
+                "source": "Honda"
+            },
+            "page_content": "Honda jest koloru srebrno szarego\n",
+            "type": "Document"
+        }
+    }
+]
